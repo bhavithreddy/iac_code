@@ -1,4 +1,4 @@
-name: Cloudcore IAC
+name: YBR IAC
 
 on:
     push:
